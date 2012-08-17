@@ -1,0 +1,10 @@
+{
+    "task": {
+        "type": "HELLO-WORLD",
+        "config": {
+            "target": "world",
+            "greeting": "Hello",
+            "punctuation": "!"
+        }
+    }
+}
